@@ -2,10 +2,10 @@ Story
 {
   Setting
   {
-    Main Hero:
-    Main Villian:
-    Place:
-    Time Period:
+    Main Hero: Clucky Chuck
+    Main Villian: Fox Lord (name?)
+    Place: Various kingdoms
+    Time Period: Middle Age Fantasy
     
   }
   
