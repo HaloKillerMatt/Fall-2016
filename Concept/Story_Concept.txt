@@ -27,6 +27,10 @@ Story
 }
 
 Main Bad Guy a Fox
+{
+  Various types of foxes as mainline enemies
+  specific enemies for different kingdoms
+}
 
 START
   Game Starts With Chicken Waking Up On Farm
